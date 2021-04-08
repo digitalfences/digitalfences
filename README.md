@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="gabbygalenpic.png" width="600px">
+  <img src="gabbygalenpic.jpg" width="600px">
 </p>
 
 Hello! My name is Galen Emanuel and I am a JavaScript developer based out of the Oakland area. 
