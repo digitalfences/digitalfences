@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="gabbygalenpic.png" width="600px">
+</p>
+
+Hello! My name is Galen Emanuel and I am a JavaScript developer based out of the Oakland area. 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galen-emanuel/) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/emanuel_galen) 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalfences&theme=dracula" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=digitalfences&theme=dracula">
